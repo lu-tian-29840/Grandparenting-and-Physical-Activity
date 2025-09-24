@@ -13,3 +13,10 @@ As with your other repo, this README follows the same concise structure and “r
 ## Data
 Original survey data are **not** included. Supply the required files locally in the paths referenced by the scripts before execution.
 
+## How to cite
+
+If you use this code or reproduce our results, please cite the article:
+
+Article: https://doi.org/10.1177/08982643241273197
+
+
